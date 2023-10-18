@@ -1,3 +1,2 @@
-f = 'Helloworld'
-for i in range (10):
-    print (f)
+greeting = 'Hello, world!\n'
+print(greeting * 10)
